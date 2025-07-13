@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('landscape.img/clouds');
+    background-image: url('landscape.img/leaf.jpg');
     background-size: cover;
 }
 
