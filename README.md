@@ -44,6 +44,21 @@ In production-grade apps, using `eval()` is **not recommended** due to security 
  Update Log
  – Added shiny animated background effect to calculator
 
+# 16 july 
+ Features
+
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
+- Responsive layout that works on desktop and mobile
+- Styled display with large readable font
+- Clean UI with soft shadows and borders
+- **Tap animation effect on calculator** for interactive experience
+
+  # Update Log
+
+  Added subtle "tap" animation on calculator body when hovered/clicked to enhance UI responsiveness.
+
+
+
 # Acknowledgements
 
 Thanks to my internship experience which allowed me to explore core frontend skills and create this calculator project from scratch.
