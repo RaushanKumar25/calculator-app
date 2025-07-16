@@ -51,6 +51,15 @@ body {
     animation: shine 3s infinite;
 }
 
+.calculator {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.calculator:hover {
+    transform: translate(4px, 4px);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+}
+
 
 
 input {
@@ -113,3 +122,4 @@ button:hover {
         transform: translateX(100%) rotate(25deg);
     }
 }
+
