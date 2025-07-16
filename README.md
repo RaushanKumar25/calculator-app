@@ -40,6 +40,10 @@ In production-grade apps, using `eval()` is **not recommended** due to security 
 
 ---
 
+# 14 july 
+ Update Log
+ – Added shiny animated background effect to calculator
+
 # Acknowledgements
 
 Thanks to my internship experience which allowed me to explore core frontend skills and create this calculator project from scratch.
